@@ -17,5 +17,5 @@ docker run --name web --rm  -p 8080:80 docker-nginx
 
 docker push lsoria88/docker-nginx:tagname
 
-Ej: docker push lsoria88/docker-nginx:servidorWeb
+Ej: docker push lsoria88/docker-nginx:latest
 

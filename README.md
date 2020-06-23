@@ -1,5 +1,9 @@
 # nginxAWS
-Configuracion NGINX 
+Configuracion NGINX. Agregar los 2 archivos al path del proyecto:
+
+Dockerfile: configuracion de la imagen de docker
+nginx.conf: configuracion del servidor Nginx
+
 
 ## Generar imagen
 
